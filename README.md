@@ -42,6 +42,7 @@
 
 ## 更新履歴
 
+- 2022/4/15 `<button class="btn"><span>お問い合わせへ</span></button>`対応中
 - 2022/4/14 first commit
 
 ## 環境・使い方
