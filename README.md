@@ -21,7 +21,7 @@
 ## 使い方
 
 - 「copy start」から「copy end」をコピペ。
-- css: src -> module -> xxx をコピペ。
+- css: src -> module -> contact、btn をコピペ。
 
 ## w3c html チェック結果
 
@@ -41,6 +41,7 @@
 
 ## 更新履歴
 
+- 2022/4/15 fixed comment.
 - 2022/4/15 `codepus模擬案件（contact）`sp、pc 共に完成。
 - 2022/4/15 `<button class="btn"><span>お問い合わせへ</span></button>`対応中
 - 2022/4/14 first commit
