@@ -33,8 +33,7 @@
 
 ## portfolio url:
 
-- https://c-0000.wtb.cfbx.jp/
-- https://css-md-0000.wtb.cfbx.jp/
+- https://c-0054.wtb.cfbx.jp/
 
 ## 参考にしたサイト
 
@@ -42,6 +41,8 @@
 
 ## 更新履歴
 
+- 2022/4/15 `codepus模擬案件（contact）`sp、pc 共に完成。
+- 2022/4/15 `<button class="btn"><span>お問い合わせへ</span></button>`対応中
 - 2022/4/14 first commit
 
 ## 環境・使い方
