@@ -1,10 +1,10 @@
 # compornent（共通部品）
 
 ## イメージ画像
+
 <img width="420" alt="image" src="https://user-images.githubusercontent.com/99580997/163566417-bf2d00d2-b560-4f51-af04-0b568a36c713.png">
 <img width="776" alt="image" src="https://user-images.githubusercontent.com/99580997/163566446-29d54d6b-77f0-42c9-bcbd-ab4e697f4cfe.png">
 <img width="803" alt="image" src="https://user-images.githubusercontent.com/99580997/163566484-2b6e47aa-7085-47d1-bfa7-7491cd46744e.png">
-
 
 ## 概要
 
@@ -37,12 +37,10 @@
 - https://jigsaw.w3.org/css-validator/
 - <img width="820" alt="image" src="https://user-images.githubusercontent.com/99580997/163566595-c2a55407-5d1f-47ff-97b4-93240ed0fe9e.png">
 
-
-
 ## portfolio url:
 
 - https://c-0054.wtb.cfbx.jp/
-- 
+-
 
 ## 参考にしたサイト
 
@@ -50,6 +48,7 @@
 
 ## 更新履歴
 
+- 2022/5/3 模擬要素の`position: relative;`の位置を修正。
 - 2022/4/15 fixed comment.
 - 2022/4/15 `codepus模擬案件（contact）`sp、pc 共に完成。
 - 2022/4/15 `<button class="btn"><span>お問い合わせへ</span></button>`対応中
