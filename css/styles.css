@@ -292,13 +292,13 @@ select::-ms-expand {
   color: #fff;
   padding-bottom: 20px;
   padding-bottom: 1.25rem;
+  position: relative;
 }
 @media screen and (min-width: 768px) {
   .contact__title--inner {
     font-size: 1.875rem;
     letter-spacing: 0.125rem;
     line-height: 1.1666;
-    position: relative;
     padding-bottom: 1.5rem;
   }
 }
@@ -317,8 +317,8 @@ select::-ms-expand {
   position: absolute;
   top: 0;
   left: 50%;
-  -webkit-transform: translate(-50%, 26%);
-          transform: translate(-50%, 26%);
+  -webkit-transform: translate(-50%, -65%);
+          transform: translate(-50%, -65%);
 }
 @media screen and (min-width: 768px) {
   .contact__title--inner::before {

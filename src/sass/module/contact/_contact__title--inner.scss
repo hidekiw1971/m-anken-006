@@ -13,14 +13,14 @@
   color: #fff;
   // space
   padding-bottom: rem(20);
+  // ajustment
+  position: relative;
 
   @include mq(md) {
     // font
     font-size: rem(30);
     letter-spacing: rem(2);
     line-height: 1.1666;
-    // ajustment
-    position: relative;
     // space
     padding-bottom: rem(24);
   }
@@ -45,7 +45,7 @@
   position: absolute;
   top: 0;
   left: 50%;
-  transform: translate(-50%, 26%);
+  transform: translate(-50%, -65%);
   @include mq(md) {
     // font
     font-size: rem(110);
